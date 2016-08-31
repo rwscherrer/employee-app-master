@@ -1,0 +1,11 @@
+3a - Line 5 creates a new array called list and assigns it to a variable "list".
+
+3b - Line 8 calls the add_task method and creates new task called "Feed the cat".
+
+3c - Line 14 prints the second task from list to the terminal.
+
+3d - Line 31 calls the "complete!" method from task and marks it as complete.
+
+4a - I think the advantage to OOP is that by using classes you have more flexibility to handle a variety of unique scenarios.
+
+4b - I think the advantage to procedural is having your code all in one place without having to cross reference multiple files.

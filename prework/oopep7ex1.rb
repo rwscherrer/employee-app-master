@@ -1,0 +1,1 @@
+#1 The 'transfer_funds_to' method is called on account1 (account1.transfer_funds_to) this indicates to withdraw from account1. The arguments passed (account2, 130) indicate the account to transfer to and the amount to be transferred.
